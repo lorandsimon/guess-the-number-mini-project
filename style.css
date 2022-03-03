@@ -121,7 +121,7 @@ h1 {
 /* Mobile */
 @media (max-width: 500px) {
   html {
-    font-size: 40%;
+    font-size: 25%;
   }
 
   main {
