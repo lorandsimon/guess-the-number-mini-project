@@ -129,7 +129,7 @@ h1 {
   }
 
   h1 {
-    line-height: 5rem;
+    /* line-height: 5rem; */
   }
 
   .again {
@@ -138,11 +138,13 @@ h1 {
   }
 
   .left {
-    margin-top: 7rem;
+    width: 100%;
+    margin: 0 auto;
   }
 
   .right {
-    margin-top: -5rem;
+    width: 100%;
+    margin: 0 auto;
   }
 
   .guess {
@@ -155,7 +157,7 @@ h1 {
   .message {
     margin-bottom: 3rem;
     margin-top: -4rem;
-    line-height: 3rem;
+    /* line-height: 3rem; */
     text-align: center;
   }
 
