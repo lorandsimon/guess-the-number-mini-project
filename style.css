@@ -153,9 +153,17 @@ h1 {
   }
 
   .message {
-    margin-bottom: 10rem;
+    margin-bottom: 3rem;
     margin-top: -4rem;
     line-height: 3rem;
+    text-align: center;
+  }
+
+  .label-score {
+    text-align: center;
+  }
+
+  .label-highscore {
     text-align: center;
   }
 }
